@@ -137,3 +137,8 @@ body {
         height: 90%;
     }
 }
+
+#contact_vpx_whatsapp , #whatsapp_group , #telegram_group{
+    text-decoration: none;
+    color: #39FF14;
+}
