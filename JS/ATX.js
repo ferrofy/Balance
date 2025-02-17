@@ -2,7 +2,7 @@ const balanceData = {
     balance: 6
 };
 
-document.getElementById("Live_Balance").innerText = "Balance:" + " ₹ " + balanceData.balance;
+document.getElementById("Live_Balance").innerText = "Balance - " + " ₹ " + balanceData.balance;
 
 const buttonData = [
     {name: '₹ 10 Any Gift Card', value: 10, barClass: 'red-loading-bar'},
