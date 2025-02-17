@@ -1,5 +1,5 @@
 const balanceData = {
-    balance: 5.25
+    balance: 6
 };
 
 const buttonData = [
