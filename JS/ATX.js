@@ -1,5 +1,5 @@
 const balanceData = {
-    balance: 6
+    balance: 7.68
 };
 
 document.getElementById("Live_Balance").innerText = "Balance - " + " ₹ " + balanceData.balance;
